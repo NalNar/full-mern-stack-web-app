@@ -1,0 +1,22 @@
+.About-page {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.About-page h1,
+.About-page h2,
+.About-page p {
+  margin-bottom: 16px;
+}
+
+.About-photo {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 20px auto 0;
+}
+
+.About-error {
+  color: #b00020;
+}
